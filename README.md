@@ -52,5 +52,5 @@ Received Order
 #
 
 ![Screenshot 11](images/11.png)
-Order Panel in WordPress
+Orders Panel in WordPress
 #
