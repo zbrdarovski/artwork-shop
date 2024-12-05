@@ -44,7 +44,7 @@ Billing Information (Checkout)
 #
 
 ![Screenshot 9](images/9.png)
-Payment Option (Checkout)
+Payment Options (Checkout)
 #
 
 ![Screenshot 10](images/10.png)
