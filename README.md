@@ -11,15 +11,46 @@ A secure WooCommerce artwork shop featuring calculated net prices and multiple p
 
 Here are screenshots showcasing the website:
 
-![Screenshot 1](images/1.png)  
-![Screenshot 2](images/2.png)  
-![Screenshot 3](images/3.png)  
-![Screenshot 4](images/4.png)  
-![Screenshot 5](images/5.png)  
-![Screenshot 6](images/6.png)  
-![Screenshot 7](images/7.png)  
-![Screenshot 8](images/8.png)  
-![Screenshot 9](images/9.png)  
-![Screenshot 10](images/10.png)  
-![Screenshot 11](images/11.png)  
-![Screenshot 12](images/12.png)  
+![Screenshot 1](images/1.png)
+About Us
+#
+
+![Screenshot 2](images/2.png)
+Empty Cart
+#
+
+![Screenshot 3](images/3.png)
+Cart Suggestions
+#
+
+![Screenshot 4](images/4.png)
+Filled Cart
+#
+
+![Screenshot 5](images/5.png)
+Login
+#
+
+![Screenshot 6](images/6.png)
+Terms and Conditions
+#
+
+![Screenshot 7](images/7.png)
+Shop
+#
+
+![Screenshot 8](images/8.png)
+Billing Information (Checkout)
+#
+
+![Screenshot 9](images/9.png)
+Payment Option (Checkout)
+#
+
+![Screenshot 10](images/10.png)
+Received Order
+#
+
+![Screenshot 11](images/11.png)
+Order Panel in WordPress
+#
