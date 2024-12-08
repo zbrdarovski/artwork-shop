@@ -55,5 +55,5 @@ Received Order
 Orders Panel in WordPress
 
 ## License
-This project is not licensed for public use. The code is protected by copyright law.  
-Viewing is permitted for evaluation purposes only. Copying, modifying, or distributing the code is strictly prohibited.
+This project is not licensed for public use. It is protected by copyright law.  
+Viewing is permitted for evaluation purposes only. Copying, modifying, or distributing it is strictly prohibited.
