@@ -49,10 +49,10 @@ Payment Options (Checkout)
 
 ![Screenshot 10](images/10.png)
 Received Order
+#
 
 ![Screenshot 11](images/11.png)
 Orders Panel in WordPress
-#
 
 ## License
 This project is not licensed for public use. The code is protected by copyright law.  
