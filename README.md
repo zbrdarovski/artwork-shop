@@ -54,3 +54,7 @@ Received Order
 ![Screenshot 11](images/11.png)
 Orders Panel in WordPress
 #
+
+## License
+This project is not licensed for public use. The code is protected by copyright law.  
+Viewing is permitted for evaluation purposes only. Copying, modifying, or distributing the code is strictly prohibited.
